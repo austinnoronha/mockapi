@@ -54,3 +54,5 @@ DELETE /todo_data/:id
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/75acbec7d75cdf59bf04)
 
 > I would suggest use the Desktop Tool to run the collection
+
+[Download the Collection and View in your Desktop Postman Tool](https://www.getpostman.com/collections/a18cc63176e2c2a3628e)
